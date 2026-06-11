@@ -22,3 +22,6 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+/ocr-service/.venv
+/ocr-service/__pycache__
+/ocr-service/.pytest_cache
